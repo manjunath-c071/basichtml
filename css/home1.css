@@ -1,0 +1,12 @@
+h2 {
+    color: blue;
+    background-color: black;
+    border: 4px salmon;
+}
+
+
+/* This is a single-line comment */
+
+p {
+    color: red;
+}
